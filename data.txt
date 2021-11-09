@@ -1,0 +1,23 @@
+theme orange-#ff4a02
+lite orange- #fb9f7a
+paragraph color :#988e8e
+heading color: #223253
+
+section settings 
+width: 80%;
+	padding: 0px 135px;
+	height: 60vh;
+
+Payoneer's cross-border payments platform empowers businesses, online sellers and freelancers to pay and get paid globally as easily as they do locally.
+Trusted partner for thousands of leading digital brands
+
+1280
+980
+768
+640
+480
+360
+320
+
+
+m-f =70
